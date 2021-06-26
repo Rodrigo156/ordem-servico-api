@@ -1,9 +1,0 @@
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/OrdemServicoApiApplication.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/api/controller/UsuarioController.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/core/modelmapper/ModelMapperConfig.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/domain/repository/UsuarioRepository.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/domain/service/UsuarioService.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/domain/service/impl/UsuarioServiceImpl.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/domain/exception/NegocioException.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/api/model/UsuarioDTO.java
-/home/rodrigo/Documents/projetos/Ordem_de_servico/work_space/ordem-servico-api/src/main/java/br/com/ordemservico/domain/model/Usuario.java
