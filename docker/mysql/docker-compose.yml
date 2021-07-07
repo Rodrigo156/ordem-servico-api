@@ -1,0 +1,18 @@
+version: '3.1'
+ 
+services:
+
+  db:
+    image: mysql:5.7
+    container_name: ordem_servico_git
+    environment:
+      MYSQL_USER: ordem_servico_api
+      MYSQL_PASSWORD: ordem_servico_api
+      MYSQL_DATABASE: ordem_servico_dev
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+        - 3306:3306
+    volumes:
+       - ./db:/var/lib/mysql
+volumes:
+  db:
